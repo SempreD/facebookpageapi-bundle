@@ -1,0 +1,25 @@
+{
+    "name": "sempred/facebookbpageapi-symfony2-bundle",
+    "description": "Facebook page api bundle for Symfony 2",
+    "keywords": ["Facebook", "Api", "Page"],
+    "type": "symfony-bundle",
+    "license": "GPL-3.0+",
+    "authors": [
+        {
+            "name": "Mickael Nosel",
+            "homepage": "http://www.mickaelnosel.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "symfony/framework-bundle": "~2.4",
+        "symfony/form": "~2.4",
+        "twig/twig":                        "*",
+        "doctrine/doctrine-bundle":         "*" 
+    },
+    "autoload": {
+        "psr-0": {"sempred\\Bundle\\facebookbpageapiSymfonyBundle"}
+    },
+    "target-dir": "sempred/Bundle/facebookbpageapiSymfonyBundle",
+    "minimum-stability": "dev"
+}
