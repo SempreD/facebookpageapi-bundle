@@ -20,6 +20,5 @@
     "autoload": {
         "psr-0": {"sempred\\Bundle\\facebookbpageapiSymfonyBundle": ""}
     },
-    "target-dir": "sempred/Bundle/facebookbpageapiSymfonyBundle",
     "minimum-stability": "dev"
 }
