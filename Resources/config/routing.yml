@@ -1,0 +1,3 @@
+sempredfacebookbpageapi_symfony_homepage:
+    path:     /
+    defaults: { _controller: sempredfacebookbpageapiSymfonyBundle:Default:index }

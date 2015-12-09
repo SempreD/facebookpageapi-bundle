@@ -1,0 +1,4 @@
+services:
+#    sempredfacebookbpageapi_symfony.example:
+#        class: sempred\facebookbpageapiSymfonyBundle\Example
+#        arguments: [@service_id, "plain_value", %parameter%]
