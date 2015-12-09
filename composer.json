@@ -1,5 +1,5 @@
 {
-    "name": "sempred/facebookbpageapi-symfony2-bundle",
+    "name": "sempred/sempred-facebook-bundle",
     "description": "Facebook page api bundle for Symfony 2",
     "keywords": ["Facebook", "Api", "Page"],
     "type": "symfony-bundle",
@@ -18,7 +18,7 @@
         "doctrine/doctrine-bundle":         "*" 
     },
     "autoload": {
-        "psr-0": {"sempred\\Bundle\\facebookbpageapiSymfonyBundle": ""}
+        "psr-4": {"Sempred\\Bundle\\FacebookBundle": ""}
     },
     "minimum-stability": "dev"
 }
